@@ -23,6 +23,7 @@ module.exports = function(robots) {
   });
 
   return app;
+  return undefined;
 };
 
 function render(robots) {
